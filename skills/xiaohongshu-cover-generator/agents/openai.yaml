@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书封面生成器"
+  short_description: "基于脚本生成3套小红书封面方案并推荐最佳方案，含中英提示词"
+  default_prompt: "Use $xiaohongshu-cover-generator to create 3 Xiaohongshu cover concepts from my script and recommend one."
