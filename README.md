@@ -89,17 +89,28 @@ skills/
 
 `skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果`
 
-![效果1](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果1.jpg)
-![效果2](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果2.jpg)
-![效果3](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果3.jpg)
-![效果5](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果5.jpg)
-![效果6](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果6.jpg)
-![效果7](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果7.jpg)
-![效果8](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果8.jpg)
-![效果9](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果9.jpg)
-![效果10](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果10.jpg)
-![效果11](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/2e2341c7-34db-4501-80cc-cc1602a3277b.jpg)
-![效果12](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/8fdbfd71-677f-4d55-8092-f5a676be75dc.jpg)
+<table>
+  <tr>
+    <td><img src="skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果1.jpg" width="260" alt="效果1"></td>
+    <td><img src="skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果2.jpg" width="260" alt="效果2"></td>
+    <td><img src="skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果3.jpg" width="260" alt="效果3"></td>
+  </tr>
+  <tr>
+    <td><img src="skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果5.jpg" width="260" alt="效果5"></td>
+    <td><img src="skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果6.jpg" width="260" alt="效果6"></td>
+    <td><img src="skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果7.jpg" width="260" alt="效果7"></td>
+  </tr>
+  <tr>
+    <td><img src="skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果8.jpg" width="260" alt="效果8"></td>
+    <td><img src="skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果9.jpg" width="260" alt="效果9"></td>
+    <td><img src="skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果10.jpg" width="260" alt="效果10"></td>
+  </tr>
+  <tr>
+    <td><img src="skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/2e2341c7-34db-4501-80cc-cc1602a3277b.jpg" width="260" alt="效果11"></td>
+    <td><img src="skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/8fdbfd71-677f-4d55-8092-f5a676be75dc.jpg" width="260" alt="效果12"></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Notes
 
