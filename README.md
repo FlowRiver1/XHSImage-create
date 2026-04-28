@@ -83,6 +83,24 @@ skills/
     assets/examples/
 ```
 
+## Showcase
+
+以下是当前仓库内的部分封面效果图，完整样例位于：
+
+`skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果`
+
+![效果1](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果1.jpg)
+![效果2](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果2.jpg)
+![效果3](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果3.jpg)
+![效果5](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果5.jpg)
+![效果6](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果6.jpg)
+![效果7](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果7.jpg)
+![效果8](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果8.jpg)
+![效果9](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果9.jpg)
+![效果10](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/效果10.jpg)
+![效果11](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/2e2341c7-34db-4501-80cc-cc1602a3277b.jpg)
+![效果12](skills/xiaohongshu-cover-generator/assets/examples/AI生成封面效果/8fdbfd71-677f-4d55-8092-f5a676be75dc.jpg)
+
 ## Notes
 
 - API 额度、计费、速率限制由对应平台账户决定。
